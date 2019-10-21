@@ -1,0 +1,6 @@
+1. Node
+ - An environment that allows us to write Javascript outside of the browser
+ - API - application programming interface. Different endpoints that get exposed from the server, that we are able to make request to.
+ - git init
+ - git remote add origin git@github.com:Delvin2011/lavie-clothing-Backend.git
+  - Takudzwa
