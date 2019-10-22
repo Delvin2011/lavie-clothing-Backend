@@ -3,4 +3,9 @@
  - API - application programming interface. Different endpoints that get exposed from the server, that we are able to make request to.
  - git init
  - git remote add origin git@github.com:Delvin2011/lavie-clothing-Backend.git
-  - Takudzwa
+ - npm install -g nodemon
+ - dotenv - used to store secret keys.
+ - stripe - library to make charges.
+ - engines - will tell our progrma what version of node and npm we are running.
+ - secret key set to .env
+ - add .env to .gitgnore to ensure key is not put in any repos
